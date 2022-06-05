@@ -1,0 +1,7 @@
+2020-12-31 14:34:36.490: CAMRa2011/sparser_datagenerate
+2020-12-31 14:34:36.491: The number of users: 289
+2020-12-31 14:34:36.491: The number of items: 1701
+2020-12-31 14:34:36.492: The number of ratings: 3925
+2020-12-31 14:34:36.492: Average actions of users: 13.58
+2020-12-31 14:34:36.493: Average actions of items: 2.31
+2020-12-31 14:34:36.501: The sparsity of the source dataset: 99.201569%
